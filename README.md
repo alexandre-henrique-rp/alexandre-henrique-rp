@@ -2,8 +2,9 @@
 
 ## eu sou o Alexandre Henrique
 
-- 🔭 Hoje estou a procura de emprego na area front end 
-- 🌱 Estou estudando Node Js, React Native, Electron Js
+- 🔭 Hoje eu sou Funcionario da Rede Brasil Rp
+- 🤖 Cargo: Desenvolvedor web Fullstack Jr 
+- 🌱 Estou estudando React js, Next Js, Node Js, React Native, Electron Js
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
@@ -17,6 +18,7 @@
     <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Alexandre-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
     <img align="center" alt="Alexandre-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Alexandre-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
     <img align="center" alt="Alexandre-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">  
