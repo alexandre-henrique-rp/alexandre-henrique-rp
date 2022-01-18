@@ -31,4 +31,5 @@
   
   
 ![Snake animation](https://github.com/alexandre-henrique-rp/alexandre-henrique-rp/blob/output/github-contribution-grid-snake.svg)
+  
  
