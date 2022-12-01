@@ -2,14 +2,14 @@
 
 ## eu sou o Alexandre Henrique
 
-- 🔭 Hoje eu sou Funcionario da Rede Brasil Rp
+- 🔭 Hoje eu sou Desenvolvedor Free Lancer
 - 🤖 Cargo: Desenvolvedor web Fullstack Jr 
-- 🌱 Estou estudando React js, Next Js, Node Js, React Native, Electron Js
+- 🌱 Conhecimentos em: React js, Next Js, Node Js, React Native, Electron Js
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/alexandre-henrique-rp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandre-henrique-rp&show_icons=true&theme=dracula&include_all_commits=true&      count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandre-henrique-rp&show_icons=true&theme=dracula&include_all_commits=true />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-henrique-rp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
