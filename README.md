@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/alexandre-henrique-rp">
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=alexandre-henrique-rp&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-henrique-rp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-henrique-rp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block background: fffff "><br>
