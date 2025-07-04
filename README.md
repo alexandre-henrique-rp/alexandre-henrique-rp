@@ -2,8 +2,7 @@
 
 ## eu sou o Alexandre Henrique
 
-- 🔭 Hoje eu sou Desenvolvedor Free Lancer
-- 🤖 Cargo: Desenvolvedor web Fullstack Jr 
+- 🤖 Cargo: Desenvolvedor web Fullstack Pleno
 - 🌱 Conhecimentos em: React js, Next Js, Node Js, React Native, Electron Js
 - 😄 Pronouns: Ele/dele
 
